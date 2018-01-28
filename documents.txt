@@ -1,0 +1,22 @@
+steps to install GIT and create account in GITHUB
+
+
+Steps to upload our file to GIT-HUB
+
+1. upload file to GIT HUB account use
+	
+	git add "file name"
+
+2. To check the status of file 
+
+	git status
+
+3. Save the file in GIT HUB
+
+	git commit-m "commit name" file name
+
+
+
+Steps to transfer our file to GIT-HUB ACCOUNT
+
+1.	git push -u origin master
